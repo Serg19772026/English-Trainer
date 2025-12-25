@@ -1,0 +1,7 @@
+{
+  "name": "LinguistAI - Interactive English Learning",
+  "description": "An interactive English learning application that helps users practice pronunciation through curated topics, high-quality AI speech synthesis, and real-time speech recognition with word highlighting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
